@@ -1,4 +1,4 @@
-# Quora-Type User Management Web App
+# Interactive Post Management Platform using Node and EJS
 
 This is a backend-driven web application that allows users to be created, viewed, and edited — similar to basic functionality seen in platforms like Quora.
 
